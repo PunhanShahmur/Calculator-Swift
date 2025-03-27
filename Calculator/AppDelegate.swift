@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  FirstProfessional
+//  Calculator
 //
-//  Created by Punhan Shahmurov on 02.03.25.
+//  Created by Punhan Shahmurov on 03.03.25.
 //
 
 import UIKit
